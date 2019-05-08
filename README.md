@@ -3,6 +3,7 @@
 ## 我修改了什么
 * `sidebar` `border-left`删除,为`content_container`增加`border-right`
 * 去掉`body_container`的`max-width: 1150px;`
+* `tag`图标修改
 
 
 
