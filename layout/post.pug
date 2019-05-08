@@ -6,7 +6,7 @@ block title
 block content
   .post
     h1.post-title= page.title
-    .post-meta= page.date.format(config.date_format) 
+    .post-meta= date(page.date)
       if page.categories.length > 0
         span= ' | '
         span.category
