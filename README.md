@@ -1,5 +1,13 @@
 # Maupassant
 
+## 我修改了什么
+* `sidebar` `border-left`删除,为`content_container`增加`border-right`
+* 去掉`body_container`的`max-width: 1150px;`
+
+
+
+
+
 [![Build Status](https://travis-ci.org/tufu9441/maupassant-hexo.svg?branch=master)](https://travis-ci.org/tufu9441/maupassant-hexo)   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/tufu9441/maupassant-hexo/blob/master/LICENSE)
 
 > 大道至简
