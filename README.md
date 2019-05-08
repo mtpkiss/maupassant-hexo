@@ -5,6 +5,7 @@
 * 去掉`body_container`的`max-width: 1150px;`
 * `sidebar` `tag`图标修改
 * 文章详情页最下面的`tag`图标修改
+* 文章详情页 发布时间格式化修改
 
 [![Build Status](https://travis-ci.org/tufu9441/maupassant-hexo.svg?branch=master)](https://travis-ci.org/tufu9441/maupassant-hexo)   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/tufu9441/maupassant-hexo/blob/master/LICENSE)
 
