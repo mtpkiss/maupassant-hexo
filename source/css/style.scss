@@ -33,6 +33,7 @@ body {
     margin: 0 auto;
 }
 .content_container {
+    border-right: 1px solid #ddd;
     padding-right: 50px;
     padding-top: 20px;
 }
@@ -107,7 +108,7 @@ div {
 }
 
 #sidebar {
-    border-left: 1px solid #ddd;
+    // border-left: 1px solid #ddd;
     padding-left: 35px;
     margin-top: 40px;
     padding-bottom: 20px;
